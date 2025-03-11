@@ -88,5 +88,11 @@ Deleted Files Detected:
 ## Credits
 This project was developed as part of my **Cyber Security & Ethical Hacking Internship** at **CODTECH IT SOLUTIONS PVT. LTD.** under the guidance of my mentors.  
   And using online for help in the stuations
+
+
+  ##OUPUT IMAGES
+
+  ![Image](https://github.com/user-attachments/assets/9b57e5e1-e5f7-447b-bedb-8ab577f0b1cc)
+  
   
 
