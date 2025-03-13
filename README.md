@@ -91,6 +91,10 @@ This project was developed as part of my **Cyber Security & Ethical Hacking Inte
 
 
   ##OUPUT IMAGES
+  
+*256-hash vlue output
+
+![Image](https://github.com/user-attachments/assets/97cd8367-2e14-4208-a75a-a2dcaa9dd9c4)
 
 
   
