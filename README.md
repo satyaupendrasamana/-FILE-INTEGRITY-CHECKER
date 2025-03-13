@@ -92,22 +92,6 @@ This project was developed as part of my **Cyber Security & Ethical Hacking Inte
 
   ##OUPUT IMAGES
 
-  ![Image](https://github.com/user-attachments/assets/9b57e5e1-e5f7-447b-bedb-8ab577f0b1cc)
-  
-
-  ![Image](https://github.com/user-attachments/assets/8997517f-ee6e-488f-8acd-9afb5fa86201)
-  
-
-  ![Image](https://github.com/user-attachments/assets/761173f5-2c89-438b-ab46-7c755a52e412)
-  
-
-  ![Image](https://github.com/user-attachments/assets/ca2a06d1-2133-4482-9b8c-155248dc1a29)
-
-  
-  ![Image](https://github.com/user-attachments/assets/479445cc-6ed2-4aad-935c-6f1f5cd05a73)
-
-
-  ![Image](https://github.com/user-attachments/assets/82e34161-1e8c-4a54-9c71-cbab86c66a1f)
 
   
   
