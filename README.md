@@ -100,6 +100,10 @@ This project was developed as part of my **Cyber Security & Ethical Hacking Inte
 
 ![Image](https://github.com/user-attachments/assets/05cf6824-087a-4e08-8409-f4972b7a223e)
 
+*file modified output
+
+![Image](https://github.com/user-attachments/assets/5f2edbbd-6507-4b40-885d-e1ec09cb5035)
+
   
   
   
